@@ -2,7 +2,6 @@
 Externship Final Project
 
 We have attached the 
-
   1. Assignments
   2. Project Files
   3. Demo Videos, and
@@ -16,3 +15,4 @@ For all 4 Team Members
 
 Some files are too big and have been uploaded in the .zip file format. 
 Download and Extract it to view it's contents.
+If any file is not accessible, please check the Google Drive Link: https://drive.google.com/drive/folders/11VyzEH-7BbRhG_Kn8RxFp1MaEK5Fk7-o?usp=sharing
